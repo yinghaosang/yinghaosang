@@ -6,5 +6,5 @@ I work on large-scale distributed systems, AI/ML infrastructure, and backend eng
 
 #### Get in touch
 
-- 📧 [email]sang5338@outlook.com
+- 📧 sang5338@outlook.com
 - 💼 [LinkedIn](https://linkedin.com/in/yinghaosang)
