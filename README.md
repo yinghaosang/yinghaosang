@@ -17,9 +17,3 @@
 ### 🤝 Let's Connect
 
 - 🌐 GitHub: [@yinghaosang](https://github.com/yinghaosang)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yinghaosang&style=flat-square&color=blue" alt="Profile Views" />
-</p>
